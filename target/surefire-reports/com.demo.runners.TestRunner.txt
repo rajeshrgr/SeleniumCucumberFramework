@@ -1,13 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.demo.runners.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.964 s <<< FAILURE! - in com.demo.runners.TestRunner
-User Login API.Validate successful user login API response  Time elapsed: 3.133 s  <<< FAILURE!
-java.lang.AssertionError: expected: java.lang.String<200> but was: java.lang.Integer<200>
-	at org.junit.Assert.fail(Assert.java:89)
-	at org.junit.Assert.failNotEquals(Assert.java:835)
-	at org.junit.Assert.assertEquals(Assert.java:120)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at com.demo.stepDefinitions.LoginAPISteps.api_response_status_code_should_be(LoginAPISteps.java:38)
-	at ✽.API response status code should be "200"(file:///D:/Rajesh/workspace/SeleniumCucumberFramework/src/test/resources/features/LoginApis.feature:8)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.011 s - in com.demo.runners.TestRunner
