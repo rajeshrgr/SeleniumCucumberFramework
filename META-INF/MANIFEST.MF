@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SeleniumCucumberFramework
+Bundle-SymbolicName: SeleniumCucumberFramework
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-23
+Automatic-Module-Name: SeleniumCucumberFramework
+Export-Package: com.demo.pages,
+ com.demo.runners,
+ com.demo.stepDefinitions,
+ com.demo.utils
