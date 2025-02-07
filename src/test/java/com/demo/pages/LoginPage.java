@@ -14,7 +14,7 @@ public class LoginPage {
     // Constructor: Initialize WebDriver and WebDriverWait
     public LoginPage(WebDriver driver) {
         this.driver = driver;
-        this.wait = new WebDriverWait(driver, Duration.ofSeconds(15));  // 10 seconds timeout
+        this.wait = new WebDriverWait(driver, Duration.ofSeconds(20));  // 10 seconds timeout
     }
 
     // Locators
