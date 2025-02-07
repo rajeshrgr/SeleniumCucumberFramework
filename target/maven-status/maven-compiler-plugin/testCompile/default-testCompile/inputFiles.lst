@@ -1,6 +1,6 @@
-D:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\utils\ConfigReader.java
-D:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\pages\LoginPage.java
-D:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\runners\TestRunner.java
-D:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\utils\BaseTest.java
-D:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\stepDefinitions\LoginAPISteps.java
-D:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\stepDefinitions\LoginSteps.java
+G:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\runners\TestRunner.java
+G:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\utils\ConfigReader.java
+G:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\utils\BaseTest.java
+G:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\stepDefinitions\LoginSteps.java
+G:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\pages\LoginPage.java
+G:\Rajesh\workspace\SeleniumCucumberFramework\src\test\java\com\demo\stepDefinitions\LoginAPISteps.java
